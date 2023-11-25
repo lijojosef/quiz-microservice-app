@@ -70,6 +70,7 @@ To run the Microservices Quiz App locally, follow these steps:
 
 6. **Access the Application:**
     - [ ] Access the Microservices Quiz App via the API Gateway.
+<img width="1411" alt="image" src="https://github.com/lijojosef/quiz-microservice-app/assets/39986674/ea8dbb29-6420-4533-bf41-55d215d823ea">
 
 ## Contributing
 
